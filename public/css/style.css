@@ -1,0 +1,50 @@
+.index-page {
+    height: 1024px;
+}
+
+.index-page .threadCountDropdown {
+    width: 50px;
+    height: 50px;
+}
+
+.index-page .requestCountDropdown {
+    width: 50px;
+    height: 50px;
+}
+
+.controls-container {
+    display: flex;
+    margin-top: 50px;
+}
+
+.controls-container button {
+    height: 30px;
+    margin: auto 20px 14px 0;
+}
+
+.request-count-container {
+    margin-left: 20px;
+}
+
+.thread-count-container {
+    margin-left: 20px;
+}
+
+.scheduled-list-container {
+    padding: 20px 0 20px 0;
+    margin-top: 50px;
+}
+
+.support-row-container {
+    display: flex;
+    margin: 20px 0 20px 0;
+}
+
+.support-row-container .day-text {
+    margin: 0 15px 0 0;
+    font-weight: 600;
+}
+.support-row-container .support-engineer {
+    margin: 0 15px 0 0;
+    font-weight: 600;
+}
